@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/argareksapati/argareksapati/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/argareksapati/argareksapati/main/dist/github-snake.svg" alt="snake" />
 </div>
 
 ## 🛠 Tech Stack
@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=argareksapati&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <br>
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=areksaxyz&theme=onedark&margin-w=15&row=2&column=4)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=argareksapati&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=4)
 </div>
 
 ## 🌐 Connect with Me
@@ -37,7 +37,7 @@
   <a href="https://instagram.com/argareksapati">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=6281818266692">
+  <a href="https://api.whatsapp.com/send?phone=6282126143306">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -46,13 +46,9 @@
 
 ## 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kzrwlqk4d3atvajgptyv3kyx5i&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31kzrwlqk4d3atvajgptyv3kyx5i)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kzrwlqk4d3atvajgptyv3kyx5i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/4GZwUfjP3e83Dq62NFWbVU)
 
 <div style="margin-top:50px">
   <img align="right" alt="Coding" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
   <img align="left" alt="Developer" height="160px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
