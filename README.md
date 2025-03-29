@@ -26,7 +26,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhamadargareksapati">
+  <a href="https://www.linkedin.com/in/muhamad-arga-reksapati-695a67323/"
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="m.argareksapati21@gmail.com">
