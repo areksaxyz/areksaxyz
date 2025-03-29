@@ -19,13 +19,13 @@
 
 <div align="center">
   <div style="display: flex; gap: 20px; justify-content: center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argareksapati&theme=github_dark" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argareksapati&theme=github_dark" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areksaxyz&theme=github_dark" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areksaxyz&theme=github_dark" height="180" />
   </div>
   
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=argareksapati&theme=github_dark" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=argareksapati&theme=github_dark&utcOffset=8" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=areksaxyz&theme=github_dark" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=areksaxyz&theme=github_dark&utcOffset=8" height="180" />
   </div>
 </div>
 
@@ -33,7 +33,7 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=argareksapati&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=00F728&ring=00F728&fire=00F728&currStreakLabel=00F728)
 
 ### Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=argareksapati&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=areksaxyz
 
 ## 🌐 Connect with Me
 
