@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=argareksapati&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <br>
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=argareksapati&theme=onedark&margin-w=15&row=2&column=4)
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=areksaxyz&theme=onedark&margin-w=15&row=2&column=4)
 </div>
 
 ## 🌐 Connect with Me
@@ -37,7 +37,7 @@
   <a href="https://instagram.com/argareksapati">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=6282126143306">
+  <a href="https://api.whatsapp.com/send?phone=6281818266692">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
