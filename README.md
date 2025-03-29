@@ -52,11 +52,11 @@
   </a>
 </p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=areksaxyz.areksaxyz)
+![Visitors](https://komarev.com/ghpvc/?username=areksaxyz&style=flat-square&color=00F728)
 
-## 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kzrwlqk4d3atvajgptyv3kyx5i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/4GZwUfjP3e83Dq62NFWbVU)
+## 🎵 Featured Track
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4GZwUfjP3e83Dq62NFWbVU)
+<iframe src="https://open.spotify.com/embed/track/4GZwUfjP3e83Dq62NFWbVU" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <div style="margin-top:50px">
   <img align="right" alt="Coding" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
