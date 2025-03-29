@@ -14,18 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # Generate file SVG animasi ular berdasarkan kontribusi
+      # Generate file SVG animasi ular berdasarkan contribution graph
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: areksaxyz
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push file yang dihasilkan ke cabang output
+      # Push file hasil output ke cabang 'output'
       - name: Push Generated Files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
