@@ -61,7 +61,10 @@
 ## 🎵 Now Playing
 
 <div align="center">
-  [![Spotify](https://img.shields.io/badge/Now%20Playing-Never%20Letting%20Go%20-%20NCT%20DREAM-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4GZwUfjP3e83Dq62NFWbVU)
-  <br>
-  <iframe src="https://open.spotify.com/embed/track/4GZwUfjP3e83Dq62NFWbVU?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=axvj9bnaak9xsk7i9ss8q5915&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/axvj9bnaak9xsk7i9ss8q5915)
+</div>
+
+<div style="margin-top:50px" align="center">
+  <img alt="Coding" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img alt="Developer" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
