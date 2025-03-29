@@ -19,21 +19,23 @@
 
 <div align="center">
   <div style="display: flex; gap: 20px; justify-content: center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areksaxyz&theme=github_dark" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areksaxyz&theme=github_dark" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areksaxyz&theme=github_dark" height="200" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areksaxyz&theme=github_dark" height="200" />
   </div>
   
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=areksaxyz&theme=github_dark" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=areksaxyz&theme=github_dark&utcOffset=8" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=areksaxyz&theme=github_dark" height="200" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=areksaxyz&theme=github_dark&utcOffset=8" height="200" />
   </div>
 </div>
 
-### Coding Streak
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=areksaxyz&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=00F728&ring=00F728&fire=00F728&currStreakLabel=00F728)
-
-### Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=areksaxyz&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=4)
+<div align="center">
+  <h2>🔥 Coding Streak</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=areksaxyz&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=00F728&ring=00F728&fire=00F728&currStreakLabel=00F728&sideNums=00F728&sideLabels=00F728" height="220" />
+  
+  <h2>🏆 Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=areksaxyz&theme=onedark&no-frame=false&margin-w=15&row=2&column=5" height="220" />
+</div>
 
 ## 🌐 Connect with Me
 
@@ -52,13 +54,17 @@
   </a>
 </p>
 
-![Visitors](https://komarev.com/ghpvc/?username=areksaxyz&style=flat-square&color=00F728)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=areksaxyz&style=for-the-badge&color=00F728" />
+</div>
 
-## 🎵 Featured Track
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4GZwUfjP3e83Dq62NFWbVU)
-<iframe src="https://open.spotify.com/embed/track/4GZwUfjP3e83Dq62NFWbVU" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+## 🎵 Now Playing
 
-<div style="margin-top:50px">
-  <img align="right" alt="Coding" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  <img align="left" alt="Developer" height="160px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<div align="center">
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=axvj9bnaak9xsk7i9ss8q5915&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/axvj9bnaak9xsk7i9ss8q5915)
+</div>
+
+<div style="margin-top:50px" align="center">
+  <img alt="Coding" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img alt="Developer" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
