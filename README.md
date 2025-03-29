@@ -12,18 +12,28 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,py,django,aws,docker,postgres,mongodb,redis,git,github,linux,vscode,figma&perline=8" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=argareksapati&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline&color=00F728&line=00F728&point=FFFFFF)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=argareksapati&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argareksapati&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  <div style="display: flex; gap: 20px; justify-content: center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argareksapati&theme=github_dark" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argareksapati&theme=github_dark" height="180" />
+  </div>
+  
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=argareksapati&theme=github_dark" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=argareksapati&theme=github_dark&utcOffset=8" height="180" />
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=argareksapati&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <br>
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=argareksapati&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=4)
-</div>
+### Coding Streak
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=argareksapati&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=00F728&ring=00F728&fire=00F728&currStreakLabel=00F728)
+
+### Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=argareksapati&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=4)
 
 ## 🌐 Connect with Me
 
