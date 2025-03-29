@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
-  <!-- Gunakan elemen picture agar mendukung mode gelap dan terang -->
+  <!-- Gunakan elemen picture untuk mendukung mode gelap dan terang -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areksaxyz/areksaxyz/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areksaxyz/areksaxyz/output/github-contribution-grid-snake.svg" />
