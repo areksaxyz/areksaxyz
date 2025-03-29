@@ -65,10 +65,13 @@
   <img src="https://komarev.com/ghpvc/?username=areksaxyz&style=for-the-badge&color=00F728" />
 </div>
 
-## 🎵 Now Playing
+<!-- Jika Anda ingin mengganti bagian Now Playing dengan widget lain, Anda dapat menambahkan kode di bawah ini.
+     Sebagai contoh, berikut adalah placeholder untuk "Currently Working On": -->
+
+## 💻 Currently Working On
 
 <div align="center">
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=axvj9bnaak9xsk7i9ss8q5915&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/axvj9bnaak9xsk7i9ss8q5915)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Exploring+new+technologies;Learning+Advanced+DevOps;Improving+Open+Source+Projects" alt="Currently Working On" />
 </div>
 
 <div style="margin-top:50px" align="center">
