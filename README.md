@@ -57,7 +57,7 @@
   <a href="https://instagram.com/argareksapati">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=6282126143306">
+  <a href="https://api.whatsapp.com/send?phone=6281818266692">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
