@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/areksaxyz/areksaxyz/main/dist/github-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/areksaxyz/areksaxyz/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ## 🛠 Tech Stack
@@ -33,7 +33,7 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=areksaxyz&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=00F728&ring=00F728&fire=00F728&currStreakLabel=00F728)
 
 ### Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=areksaxyz
+![Trophy](https://github-profile-trophy.vercel.app/?username=areksaxyz&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=4)
 
 ## 🌐 Connect with Me
 
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=argareksapati.argareksapati)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=areksaxyz.areksaxyz)
 
 ## 🎵 Now Playing
 
