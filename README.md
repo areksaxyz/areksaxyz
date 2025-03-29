@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
-  <!-- Gunakan elemen picture untuk mendukung mode gelap dan terang -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areksaxyz/areksaxyz/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/areksaxyz/areksaxyz/output/github-contribution-grid-snake.svg" />
@@ -20,6 +19,9 @@
 </p>
 
 ## 📊 GitHub Analytics
+
+### 📈 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/areksaxyz?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)
 
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=areksaxyz&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline&color=00F728&line=00F728&point=FFFFFF)
@@ -44,6 +46,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=areksaxyz&theme=onedark&no-frame=false&margin-w=15&row=2&column=5" height="220" />
 </div>
 
+## 📚 Recent Tech Reads
+<a href="https://app.daily.dev/nobcoder">
+  <img src="https://api.daily.dev/devcards/aa8d1d9a9e4d4f14b1e7d3a4f4e8a1c0.png?r=0qg" 
+       width="400" 
+       alt="Muhamad Arga Reksapati's Dev Card"/>
+</a>
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -56,22 +65,13 @@
   <a href="https://instagram.com/argareksapati">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=6282126143306">
+  <a href="https://api.whatsapp.com/send?phone=6281818266692">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=areksaxyz&style=for-the-badge&color=00F728" />
-</div>
-
-<!-- Jika Anda ingin mengganti bagian Now Playing dengan widget lain, Anda dapat menambahkan kode di bawah ini.
-     Sebagai contoh, berikut adalah placeholder untuk "Currently Working On": -->
-
-## 💻 Currently Working On
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Exploring+new+technologies;Learning+Advanced+DevOps;Improving+Open+Source+Projects" alt="Currently Working On" />
 </div>
 
 <div style="margin-top:50px" align="center">
